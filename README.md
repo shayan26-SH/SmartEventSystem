@@ -1,0 +1,2 @@
+# SmartEventSystem
+SmartEventSystem is a Java application that demonstrates the implementation of multiple software design patterns in a university event management scenario. The system supports creating different event types, dynamically adding optional services, managing booking states, and processing payments using flexible design pattern implementations. It showcases the integration of Creational, Structural, and Behavioral design patterns to build a modular, maintainable, and extensible software architecture.
