@@ -112,7 +112,6 @@ SmartEventSystem
 
 - Java
 - Object-Oriented Programming (OOP)
-- UML Design
 - Design Patterns (GoF)
 
 ---
